@@ -31,6 +31,7 @@
     <p>　</p>
     <p>　</p>
     <p>　</p>
+    <div style="display: flex; text-align: center;">
     <table
       border="0"
       width="644"
@@ -131,5 +132,6 @@
         </td>
       </tr>
     </table>
+    </div>
   </body>
 </html>
