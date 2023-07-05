@@ -43,7 +43,7 @@ include_once('config/lock.php');
       <!-- Sidebar Trigger Start -->
       <button class="navbar-toggler me-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvas" aria-controls="offcanvas"><span class="navbar-toggler-icon"></span></button>
       <!-- Sidebar Trigger End -->
-      <a class="navbar-brand fw-bold me-auto" href="#"><img src="assets/img/logo.png" style="max-height:40px;"></a>
+      <!-- <a class="navbar-brand fw-bold me-auto" href="#"><img src="assets/img/logo.png" style="max-height:40px;"></a> -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
