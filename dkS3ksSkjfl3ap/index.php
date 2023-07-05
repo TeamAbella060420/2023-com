@@ -30,7 +30,7 @@
           <div class="card bg-white">
             <div class="card-body p-5">
               <form class="mb-3 mt-md-4" id="loginForm">
-                <h2 class="fw-bold mb-2 text-uppercase"><img src="assets/img/logo.png" width="200"></h2>
+                <!-- <h2 class="fw-bold mb-2 text-uppercase"><img src="assets/img/logo.png" width="200"></h2> -->
                 <p class=" mb-5">Please enter your credentials to start your session!</p>
                 <div class="mb-3">
                   <label for="username" class="form-label ">Username</label>
